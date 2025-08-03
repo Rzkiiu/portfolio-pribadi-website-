@@ -1,2 +1,2 @@
-# portfolio-pribadi-website-
+# portfolio-pribadi
 sebuah website yang berisi tentang data pribadi
